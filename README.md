@@ -46,14 +46,14 @@ The Excel dashboard is available in the `Calcuations` file.
    - Execute the queries to generate analysis results.  
 
 2. **View the Dashboard**:  
-   - Open the `sales_dashboard.xlsx` file in Excel.  
+   - Open the `Calcuations.xlsx` file in Excel.  
    - Use filters and slicers to explore data interactively.  
 
 ## Key Findings  
-- Region `X` contributed the highest sales, with $Y in total sales.  
-- Product `Z` was the top-seller, generating $W in revenue.  
-- The highest monthly sales were observed in `Month-Year`.  
+- Region `West` contributed the highest sales, with $710219.6845 in total sales.  
+- Product `Canon imageCLASS 2200 Advanced Copier` was the top-seller, generating $61599.824 in revenue.  
+- The highest monthly sales were observed in `2018-11`.  
 
 ## Acknowledgments  
-- Dataset Source: Sample Superstore Dataset.  
+- Dataset Source: Sample Superstore Dataset.  https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
 - Tools: SQL Server, Microsoft Excel.  
