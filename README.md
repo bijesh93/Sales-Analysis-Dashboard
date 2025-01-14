@@ -27,7 +27,7 @@ The following queries were used to extract insights:
 4. **Sales by Category and Sub-Category**:  
    - Assessed category-wise sales trends.  
 
-All SQL queries are available in the `sql_queries/` folder.  
+All SQL queries are available in the `sql_queries & analaysis SQL queries` file.  
 
 ## Excel Dashboard  
 The interactive dashboard includes:  
@@ -36,6 +36,24 @@ The interactive dashboard includes:
 - **KPIs**: Key metrics such as total sales and average monthly sales.  
 - **Filters**: Slicers to filter data dynamically by category or region.  
 
-The Excel dashboard is available in the `excel_dashboard/` folder.
+The Excel dashboard is available in the `Calcuations` file.
 
-## Project Structure  
+
+
+## How to Use  
+1. **Run SQL Queries**:  
+   - Open the `.sql` files in SQL Server Management Studio (SSMS).  
+   - Execute the queries to generate analysis results.  
+
+2. **View the Dashboard**:  
+   - Open the `sales_dashboard.xlsx` file in Excel.  
+   - Use filters and slicers to explore data interactively.  
+
+## Key Findings  
+- Region `X` contributed the highest sales, with $Y in total sales.  
+- Product `Z` was the top-seller, generating $W in revenue.  
+- The highest monthly sales were observed in `Month-Year`.  
+
+## Acknowledgments  
+- Dataset Source: Sample Superstore Dataset.  
+- Tools: SQL Server, Microsoft Excel.  
